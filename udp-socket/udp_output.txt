@@ -1,0 +1,89 @@
+Cumulative RTT for TTL=2, P=100: 1017.9865
+
+Cumulative RTT for TTL=2, P=200: 1021.1632
+
+Cumulative RTT for TTL=2, P=300: 1022.5405
+
+Cumulative RTT for TTL=2, P=400: 1067.6176
+
+Cumulative RTT for TTL=2, P=500: 1051.3248
+
+Cumulative RTT for TTL=2, P=600: 1240.1444
+
+Cumulative RTT for TTL=2, P=700: 1081.5585
+
+Cumulative RTT for TTL=2, P=800: 1090.3378
+
+Cumulative RTT for TTL=2, P=900: 1093.8513
+
+Cumulative RTT for TTL=2, P=1000: 1102.8668
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cumulative RTT for TTL=8, P=100: 1060.3649
+
+Cumulative RTT for TTL=8, P=200: 1072.0012
+
+Cumulative RTT for TTL=8, P=300: 1155.7958
+
+Cumulative RTT for TTL=8, P=400: 1197.7157
+
+Cumulative RTT for TTL=8, P=500: 1230.9176
+
+Cumulative RTT for TTL=8, P=600: 1161.6562
+
+Cumulative RTT for TTL=8, P=700: 1184.8125
+
+Cumulative RTT for TTL=8, P=800: 1244.3687
+
+Cumulative RTT for TTL=8, P=900: 1295.5799
+
+Cumulative RTT for TTL=8, P=1000: 1287.2954
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cumulative RTT for TTL=16, P=100: 1223.9667
+
+Cumulative RTT for TTL=16, P=200: 1240.8928
+
+Cumulative RTT for TTL=16, P=300: 1306.1497
+
+Cumulative RTT for TTL=16, P=400: 1872.1219
+
+Cumulative RTT for TTL=16, P=500: 1321.6049
+
+Cumulative RTT for TTL=16, P=600: 1390.7562
+
+Cumulative RTT for TTL=16, P=700: 1422.8795
+
+Cumulative RTT for TTL=16, P=800: 1398.9139
+
+Cumulative RTT for TTL=16, P=900: 1483.8250
+
+Cumulative RTT for TTL=16, P=1000: 1496.6047
